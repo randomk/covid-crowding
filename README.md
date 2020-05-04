@@ -177,4 +177,4 @@ getCustomMarker(){
 
 ### To more understand please see project code in this repo.
 
-## Thank you Team 3 MegaHack - ( Rodrigo Melgar - Rafael Carraska - Tulio Cruz)
+## Thank's to Team 3 MegaHack - ( Rodrigo Melgar - Rafael Carraska - Tulio Cruz)
